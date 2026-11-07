@@ -1,4 +1,4 @@
-# fm7-usb-keyboard
+# fm7-usb-keyboard-7tou-pico
 
 富士通 FM-7 のキーボードを USB HID キーボードに変換するファームウェアです。
 Raspberry Pi Pico（RP2040）を FM-7 キーボードの 34 ピンコネクタにつなぎ、
